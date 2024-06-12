@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://i.ibb.co/QjXq0yF/logo.jpg" width="110" />
+        <img src="https://i.ibb.co/NymVqP1/logo.jpg" width="110" />
         <br />neofusion.sp
     </h1>
 </div>
