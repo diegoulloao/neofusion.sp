@@ -59,6 +59,10 @@ theme = "neofusion"
 
 Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
 
+### `neofusion.iterm`
+
+iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.iterm)
+
 ### `neofusion.alacritty`
 
 Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.alacritty)
