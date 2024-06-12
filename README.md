@@ -27,7 +27,7 @@ Add the following lines into your `~/.config/spotify-player/theme.toml` file:
 name = "neofusion"
 
 [themes.palette]
-background = "#06101e"
+background = "#06101e" # comment for transparent bg
 foreground = "#e2d9c5"
 black = "#06101e"
 red = "#fd5e3a"
