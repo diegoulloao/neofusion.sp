@@ -47,7 +47,7 @@ bright_cyan = "#e2d9c5"
 bright_white = "#66def9"
 ```
 
-Then set the neofusion theme inside your `~/config/spotify-player/app.toml` file:
+Then set the neofusion theme inside your `~/.config/spotify-player/app.toml` file:
 ```bash
 theme = "neofusion"
 # rest of config...
