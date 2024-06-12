@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/spotify%20player-1f425f.svg?style=for-the-badge&logo=zsh" alt="zsh-badge" />
+    <img src="https://img.shields.io/badge/spotify%20player-terminal-black.svg?style=for-the-badge&logo=spotify&labelColor=1f425f" alt="zsh-badge" />
 </p>
 
 <p align="center">
