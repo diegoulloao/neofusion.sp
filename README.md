@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="sponsor" />
+</p>
+
 <div align="center">
     <h1>
         <img src="https://i.ibb.co/NymVqP1/logo.jpg" width="110" />
@@ -95,12 +99,8 @@ K9s theme version. [Check it out!](https://github.com/diegoulloao/neofusion.k9s)
 
 Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
 
-# Sponsor ❤️
+# Sponsors ❤️
 
-Check out our awesome sponsor!
+Check out our awesome sponsors!
 
-<div>
-  <a href="https://github.com/NeckBeardPrince" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/6558867" width="64" height="64" />
-  </a>
-</div>
+<!-- sponsors --><!-- sponsors -->
